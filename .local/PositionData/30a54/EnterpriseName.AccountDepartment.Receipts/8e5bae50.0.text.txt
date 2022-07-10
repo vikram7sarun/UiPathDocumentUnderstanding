@@ -1,0 +1,27 @@
+BILL
+
+Bill No : 20954 Date : Jul-06-2021 User * billing Party Name : WalklnCash
+
+Item Qty MRP Rate
+
+Maggi 70g 2 12.00 12.00 Milk Bikis Rs10 1 10.00 10.00
+
+☒ ll Amount 34.00
+
+G.Total : 34.00
+
+Total
+
+24.00 10.00
+
+Total Item     2.00 
+Total Qty      3.00 
+Payment Type   Cash 
+Cash Paid      34.00
+Refund         0.00 
+
+Tax Type    BaseAmt   Tax Amt
+CGST @ 6%   21.43     1.29   
+SGST @ 6%   21.43     1.29   
+CGST @      8.47      0.76   
+SGST @ 9%   8.47      0.76   
